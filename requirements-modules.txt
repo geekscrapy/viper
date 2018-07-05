@@ -21,7 +21,7 @@ pycodestyle==2.3.1
 pycparser==2.18
 pycrypto==2.6.1
 pyelftools==0.24
-pylzma
+pylzma==0.4.9
 pyOpenSSL==17.4.0
 pyparsing==2.2.0
 pypdns==1.3
